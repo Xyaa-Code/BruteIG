@@ -3,7 +3,6 @@
 ***download aplikasi termux android atau*** <a href="https://f-droid.org/en/packages/com.termux/">disini</a> ***lalu buka aplikasinya ketikan perintah dibawah ini.***
 
     > pkg update && pkg upgrade
-    > pkg install play-audio
     > pkg install python git
     > python -m pip install --upgrade pip
     > git clone https://github.com/Xyaa-Code/INSTAXC
