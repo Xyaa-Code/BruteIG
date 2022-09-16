@@ -1,0 +1,5 @@
+pip install requests
+pip install bs4
+pip install stdiomask
+pip install cython
+pip install mechanize
