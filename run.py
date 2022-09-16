@@ -14,7 +14,7 @@ except:
 if __name__ == "__main__":
 	if "Indonesia" == xyaa_xcc:
 		os.system('git pull')
-		__import__("INSTAXC").pil_sen()
+		__import__("INSTAXC").lisensi()
 	else:
 	     os.system("clear")
 	     print(f"{P}[{M}!{P}] sorry, this script can only be used in Indonesia")
