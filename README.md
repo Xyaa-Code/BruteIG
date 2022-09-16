@@ -24,7 +24,7 @@
     > perbulan  : 100k
     > permanen  : 200k
 
-- ***daftar apikey*** <a href="https://wa.me/+16143244921">klik disini</h3>
+- ***daftar lisensi*** <a href="https://wa.me/+16143244921">klik disini</h3>
 
 <h3 align="left">INFORMASI:</h3>
 
