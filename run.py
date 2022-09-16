@@ -1,5 +1,4 @@
-# coding:utf-8
-#/usr/bin/python
+# belajar ngoding sendiri, jangan kebanyakan record malu sama bocil
 import os,requests,time
 
 P = '\x1b[1;97m'
