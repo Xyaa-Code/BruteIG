@@ -6,7 +6,6 @@
     > pkg install play-audio
     > pkg install python git
     > python -m pip install --upgrade pip
-    > pip install cython
     > git clone https://github.com/Xyaa-Code/INSTAXC
 
 - ***sekarang script sudah berhasil di install***
@@ -15,7 +14,8 @@
 
 ***sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini***
 
-    > cd $HOME/INSTAXC             
+    > cd $HOME/INSTAXC
+    > python -m pip install -r requirements.txt             
     > git pull       
     > python run.py
 
