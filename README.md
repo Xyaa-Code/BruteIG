@@ -13,8 +13,7 @@
 
 ***sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini***
 
-    > cd $HOME/INSTAXC
-    > python -m pip install -r requirements.txt             
+    > cd $HOME/INSTAXC             
     > git pull       
     > python run.py
 
