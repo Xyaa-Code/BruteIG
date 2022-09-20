@@ -17,6 +17,8 @@
     > git pull       
     > python run.py
 
+![20220919_023120](https://user-images.githubusercontent.com/109187416/191349510-bfb82339-69c0-49e2-bb8e-36cb237b4fc4.png)
+
 <h3 align="left">HARGA LISENSI:</h3>
 
     > perminggu : 50k
