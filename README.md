@@ -1,4 +1,5 @@
-[![image.gif](https://i.postimg.cc/dt7YmZ2c/image.gif)](https://postimg.cc/HVCRTxv6)
+[![kookgi-Min-Yoon-Gi-ama-a-su-novio-Min-Yoon-Gi-ama-fastidia-fanfic-Fanfic-amreading-books.gif](https://i.postimg.cc/J4bW2V2p/kookgi-Min-Yoon-Gi-ama-a-su-novio-Min-Yoon-Gi-ama-fastidia-fanfic-Fanfic-amreading-books.gif)](https://postimg.cc/YhqVvVkF)
+
 
 <h3 align="left">CARA INSTALL SCRIPT:</h3>
 
