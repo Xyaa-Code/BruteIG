@@ -33,3 +33,6 @@
 <h3 align="left">INFORMASI:</h3>
 
 ***gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab!***
+
+
+![𝐊𝐈𝐒𝐒 𝐊𝐈𝐒𝐒 𝐅𝐀𝐋𝐋 𝐈𝐍 𝐋𝐎𝐕𝐄!_𝐇𝐈𝐑𝐎 𝐇𝐀𝐌𝐀𝐃𝐀](https://user-images.githubusercontent.com/109187416/191787656-14ee89a6-4ee5-44cd-8808-5c9df703f62a.gif)
