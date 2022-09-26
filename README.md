@@ -7,8 +7,9 @@
 
     > pkg update && pkg upgrade
     > pkg install python git
-    > python -m pip install --upgrade pip
-    > git clone https://github.com/Xyaa-Code/INSTA-XC
+    > pkg install pip
+    > rm -rf instaXC
+    > git clone https://github.com/Xyaa-Code/instaXC
 
 - ***sekarang script sudah berhasil di install***
 
@@ -16,7 +17,7 @@
 
 ***sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini***
 
-    > cd $HOME/INSTA-XC             
+    > cd $HOME/instaXC             
     > git pull       
     > python run.py
 
