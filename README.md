@@ -24,7 +24,8 @@
 <h3 align="left">SCRIPT VERSI 0.5:</h3>
 
     > fix bug login username dan password ✓
-    > fix bug crack ulang hasil cp ✓ 
+    > fix bug crack ulang hasil cp ✓
+    > tampilan script baru ✓
     > crack lebih cepat ✓
     > list user-agent new/baru ✓
     > list password new/baru ✓
