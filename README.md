@@ -30,7 +30,6 @@
     > crack lebih cepat ✓
     > list user-agent new/baru ✓
     > list password new/baru ✓
-    > hasil stabil 80% akun ok ✓
 
 ![20220919_023120](https://user-images.githubusercontent.com/109187416/191349510-bfb82339-69c0-49e2-bb8e-36cb237b4fc4.png)
 
