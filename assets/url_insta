@@ -1,5 +1,10 @@
 import os,time,requests,sys
 
-Insta_log = "https://www.instagram.com/accounts/login/"
-Url = "https://www.instagram.com/
-Proxy = "https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4&timeout=10000&country=all"
+def clear():
+    try:os.system("clear")
+    except:pass
+
+def url():
+    Insta_log = "https://www.instagram.com/accounts/login/"
+    Url = "https://www.instagram.com/
+    Proxy = "https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4&timeout=10000&country=all"
