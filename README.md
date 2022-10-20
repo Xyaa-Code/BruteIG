@@ -35,4 +35,4 @@
 
 <h3 align="left">INFORMASI:</h3>
 
-***gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab!***
+***___gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab!___***
