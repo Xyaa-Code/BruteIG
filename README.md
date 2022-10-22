@@ -9,8 +9,8 @@
     > pip install bs4
     > pip install stdiomask
     > pip install rich
-    > rm -rf instaXC
-    > git clone https://github.com/Xyaa-Code/instaXC
+    > rm -rf InstaAdtya
+    > git clone https://github.com/Xyaa-Code/InstaAdtya
 
 - ***sekarang script sudah berhasil di install***
 
@@ -18,7 +18,7 @@
 
 ***sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini***
 
-    > cd $HOME/instaXC             
+    > cd $HOME/InstaAdtya             
     > git pull       
     > python run.py
 
