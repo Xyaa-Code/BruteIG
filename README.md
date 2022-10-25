@@ -1,24 +1,29 @@
 <h3 align="left">CARA INSTALL SCRIPT:</h3>
 
-<sub>hahaha</sub>
-
 <sub>***download aplikasi termux di playstore atau***</sub> <sub>***<a href="https://f-droid.org/en/packages/com.termux/">klik disini</a>***</sub> <sub>***lalu buka aplikasinya ketikan perintah dibawah ini.***</sub>
 
-    > pkg update && pkg upgrade
-    > pkg install python git
-    > pip install -r requirements.txt
-    > rm -rf InstaAdtya
-    > git clone https://github.com/Xyaa-Code/InstaAdtya
 
- <sub>***sekarang script sudah berhasil di install***</sub>
+```pkg update && pkg upgrade```
+
+```pkg install python git```
+
+```pip install -r requirements.txt```
+
+```rm -rf InstaAdtya```
+
+```git clone https://github.com/Xyaa-Code/InstaAdtya```
+
+***```sekarang script sudah berhasil di install```***
 
 <h3 align="left">CARA MENJALANKAN SCRIPT:</h3>
 
 <sub>***sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini***</sub>
 
-    > cd $HOME/InstaAdtya             
-    > git pull       
-    > python run.py
+```cd $HOME/InstaAdtya```      
+
+```git pull```
+
+```python run.py```
 
 <sub><h3 align="left">SCRIPT VERSI 0.6:</h3></sub>
 
