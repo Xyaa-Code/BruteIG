@@ -1,6 +1,8 @@
 <h3 align="left">CARA INSTALL SCRIPT:</h3>
 
-***download aplikasi termux di playstore atau*** <a href="https://f-droid.org/en/packages/com.termux/">klik disini</a> ***lalu buka aplikasinya ketikan perintah dibawah ini.***
+<sub>hahaha</sub>
+
+<sub>***download aplikasi termux di playstore atau***</sub> <sub>***<a href="https://f-droid.org/en/packages/com.termux/">klik disini</a>***</sub> <sub>***lalu buka aplikasinya ketikan perintah dibawah ini.***</sub>
 
     > pkg update && pkg upgrade
     > pkg install python git
@@ -8,17 +10,17 @@
     > rm -rf InstaAdtya
     > git clone https://github.com/Xyaa-Code/InstaAdtya
 
-- ***___sekarang script sudah berhasil di install___***
+ <sub>***sekarang script sudah berhasil di install***</sub>
 
 <h3 align="left">CARA MENJALANKAN SCRIPT:</h3>
 
-***sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini***
+<sub>***sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini***</sub>
 
     > cd $HOME/InstaAdtya             
     > git pull       
     > python run.py
 
-<h3 align="left">SCRIPT VERSI 0.6:</h3>
+<sub><h3 align="left">SCRIPT VERSI 0.6:</h3></sub>
 
     > fix bug login username dan password ✓
     > fix bug crack ulang hasil cp ✓
@@ -29,7 +31,7 @@
 
 <h3 align="left">INFORMASI:</h3>
 
-***___gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab!___***
+<sub>***___gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab!___***</sub>
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
