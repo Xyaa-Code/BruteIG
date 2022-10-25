@@ -8,7 +8,7 @@
     > rm -rf InstaAdtya
     > git clone https://github.com/Xyaa-Code/InstaAdtya
 
-- ***sekarang script sudah berhasil di install***
+- ***___sekarang script sudah berhasil di install___***
 
 <h3 align="left">CARA MENJALANKAN SCRIPT:</h3>
 
