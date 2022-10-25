@@ -36,7 +36,7 @@
 
 <h3 align="left">INFORMASI:</h3>
 
-<sub>***___gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab!___***</sub>
+```gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab!```
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
