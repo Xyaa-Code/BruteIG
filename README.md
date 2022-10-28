@@ -7,8 +7,6 @@
 
 ```pkg install python git```
 
-```pip install -r requirements.txt```
-
 ```rm -rf InstaAdtya```
 
 ```git clone https://github.com/Xyaa-Code/InstaAdtya```
@@ -20,6 +18,8 @@
 <sub>***sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini***</sub>
 
 ```cd $HOME/InstaAdtya```      
+
+```pip install -r requirements.txt```
 
 ```git pull```
 
