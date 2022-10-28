@@ -7,6 +7,8 @@
 
 ```pkg install python git```
 
+```pkg install play-audio```
+
 ```rm -rf InstaAdtya```
 
 ```git clone https://github.com/Xyaa-Code/InstaAdtya```
