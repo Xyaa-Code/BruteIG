@@ -27,19 +27,14 @@
 
 ```python run.py```
 
-<sub><h3 align="left">SCRIPT VERSI 0.6:</h3></sub>
 
-    > fix bug login username dan password ✓
-    > fix bug crack ulang hasil cp ✓
-    > tampilan script baru ✓
-    > crack lebih cepat ✓
-    > list user-agent new/baru ✓
-    > list password new/baru ✓
+<h5 align="left">informasi:</h5>
 
-<h3 align="left">INFORMASI:</h3>
+untuk versi sekarang hanya support di perangkat yang aarch64 untuk mengecek ketik perintah ini : ```uname -m``` jika muncul ```aarch64``` selamat anda bisa menggunakan script ini, oh iya script ini juga cuma bisa dijalanin dipython versi ```3.11``` untuk mengecek versi python ketik perintah ini : ```python --version```
 
-```gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab!```
+<h5 align="left">catatan:</h5>
 
+gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
 
 ```👥 my contact:```
 
