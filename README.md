@@ -7,7 +7,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packa
       > pkg install python git
       > pkg install play-audio
       > rm -rf InstaAdtya
-      > git clone https://github.com/Xyaa-Code/InstaAdtya```
+      > git clone https://github.com/Xyaa-Code/InstaAdtya
 
 ***```sekarang script sudah berhasil di install```***
 
