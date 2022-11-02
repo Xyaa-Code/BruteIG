@@ -1,28 +1,24 @@
-<h4 align="left">CARA INSTALL SCRIPT:</h4>
+<h5 align="left">CARA INSTALL SCRIPT:</h5>
 
 download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packages/com.termux/">klik disini</a> lalu buka aplikasinya ketikan perintah dibawah ini.
 
 
-      > pkg update && pkg upgrade
-      > pkg install python git
-      > pkg install play-audio
-      > rm -rf InstaAdtya
-      > git clone https://github.com/Xyaa-Code/InstaAdtya
+    $ pkg update && pkg upgrade
+    $ pkg install python git
+    $ pkg install play-audio
+    $ rm -rf InstaAdtya
+    $ git clone https://github.com/Xyaa-Code/InstaAdtya
 
-***```sekarang script sudah berhasil di install```***
+ Oke sekarang script sudah berhasil di ```install```
 
-<h3 align="left">CARA MENJALANKAN SCRIPT:</h3>
+<h5 align="left">CARA MENJALANKAN SCRIPT:</h5>
 
-<sub>***sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini***</sub>
+sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan perintah dibawah ini
 
-```cd $HOME/InstaAdtya```      
-
-```pip install -r requirements.txt```
-
-```git pull```
-
-```python run.py```
-
+    $ cd $HOME/InstaAdtya
+    $ pip install -r requirements.txt
+    $ git pull
+    $ python run.py
 
 <h5 align="left">informasi:</h5>
 
