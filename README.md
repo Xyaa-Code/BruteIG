@@ -26,6 +26,6 @@ untuk versi sekarang hanya support di perangkat yang ```aarch64``` untuk mengece
 
 <h5 align="left">catatan:</h5>
 
-gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
+gunakanlah dengan ```bijak,``` atas apapun yang terjadi admin tidak ```bertanggung jawab.```
 
 <h5 align="left">Thanks for <a href="https://github.com/Xyaa-Code">Xyaa-Code</a> and <a href="https://github.com/AdtyaXC">Aditya XC</a></h5>
