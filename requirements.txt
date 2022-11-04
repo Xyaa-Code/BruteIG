@@ -1,5 +1,0 @@
-requests
-futures
-bs4
-rich
-fake_useragent
