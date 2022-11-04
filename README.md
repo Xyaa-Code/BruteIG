@@ -20,6 +20,13 @@ sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan peri
     $ git pull
     $ python run.py
 
+
+
+![IMG_20221104_175651](https://user-images.githubusercontent.com/109187416/199957026-51642f79-3e9a-4941-8b00-c0350fc6c26e.jpg)
+![IMG_20221104_175638](https://user-images.githubusercontent.com/109187416/199957086-a4d401ca-9541-4ce5-a348-6f588d9c40f4.jpg)
+![IMG_20221104_175714](https://user-images.githubusercontent.com/109187416/199957122-98d00ba6-54a8-49be-b322-cc080928264f.jpg)
+
+
 <h5 align="left">informasi:</h5>
 
 untuk versi sekarang hanya support di perangkat yang ```aarch64``` untuk mengecek ketik perintah ini : ```uname -m``` jika muncul ```aarch64``` selamat anda bisa menggunakan script ini, oh iya script ini juga cuma bisa dijalanin dipython versi ```3.11``` untuk mengecek versi python ketik perintah ini : ```python --version```
