@@ -9,11 +9,12 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packa
     $ rm -rf InstaAdtya
     $ git clone https://github.com/Xyaa-Code/InstaAdtya
 
- Oke sekarang script sudah berhasil di ```install```
+- Oke sekarang script sudah berhasil di ```install```
 
 <h5 align="left">CARA MENJALANKAN SCRIPT:</h5>
 
 sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan perintah dibawah ini
+
 
     $ cd $HOME/InstaAdtya
     $ git pull
