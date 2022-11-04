@@ -21,9 +21,16 @@ sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan peri
     $ python run.py
 
 
+<h5 align="left">TAMPILAN AWAL:</h5>
 
 ![IMG_20221104_175651](https://user-images.githubusercontent.com/109187416/199957026-51642f79-3e9a-4941-8b00-c0350fc6c26e.jpg)
+
+<h5 align="left">LOGIN COOKIE DAN USERNAME:</h5>
+
 ![IMG_20221104_175638](https://user-images.githubusercontent.com/109187416/199957086-a4d401ca-9541-4ce5-a348-6f588d9c40f4.jpg)
+
+<h5 align="left">RESULT CRACK:</h5>
+
 ![IMG_20221104_175714](https://user-images.githubusercontent.com/109187416/199957122-98d00ba6-54a8-49be-b322-cc080928264f.jpg)
 
 
