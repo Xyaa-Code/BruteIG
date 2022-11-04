@@ -21,8 +21,6 @@ except ImportError:
     print('\n [\x1b[1;91m!\x1b[0m] Modul Rich belum terinstall!...\n')
     os.system('pip install rich')
 
-from src.run import makedirectory
-
 if __name__ == '__main__':
     try:
         os.system("git pull")
