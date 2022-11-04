@@ -24,19 +24,19 @@ sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan peri
 
 ![IMG_20221104_175651](https://user-images.githubusercontent.com/109187416/199957026-51642f79-3e9a-4941-8b00-c0350fc6c26e.jpg)
 
-- Notice me: Anda bisa membeli lisensi tools <a href="https://wa.me/+16143244921">Klik disini</a>
+- Notice me: ```Anda bisa membeli lisensi tools``` <a href="https://wa.me/+16143244921">Klik disini</a>
 
 <h5 align="left">LOGIN COOKIE DAN USERNAME:</h5>
 
 ![IMG_20221104_175638](https://user-images.githubusercontent.com/109187416/199957086-a4d401ca-9541-4ce5-a348-6f588d9c40f4.jpg)
 
-- Notice me: Jika belum tau cara mendapatkan cookie Instagram <a href="https://youtu.be/VrGZdY5L19k">klik disini</a>
+- Notice me: ```Jika belum tau cara mendapatkan cookie Instagram``` <a href="https://youtu.be/VrGZdY5L19k">klik disini</a>
 
 <h5 align="left">RESULT CRACK:</h5>
 
 ![IMG_20221104_175714](https://user-images.githubusercontent.com/109187416/199957122-98d00ba6-54a8-49be-b322-cc080928264f.jpg)
 
-- Notice me: Hasil crack followers banyak atau sedikit nya tergantung target yang di dapatkan.
+- Notice me: ```Hasil crack followers banyak atau sedikit nya tergantung target yang di dapatkan.```
 
 <h5 align="left">informasi:</h5>
 
