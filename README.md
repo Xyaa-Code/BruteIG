@@ -16,7 +16,6 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packa
 sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan perintah dibawah ini
 
     $ cd $HOME/InstaAdtya
-    $ pip install -r requirements.txt
     $ git pull
     $ python run.py
 
