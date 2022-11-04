@@ -1,21 +1,30 @@
-# coding:utf-8
-#/usr/bin/python
-import os,requests,time
+# My name ( Xyaa Code )
+# my facebook ( https://www.facebook.com/Aditya.putraXD991 )
+# whatsapp ( +1 (614) 324-4921 )
 
-P = '\x1b[1;97m'
-M = '\x1b[1;91m'
+import os
+try:
+    import requests
+except ImportError:
+    print('\n [\x1b[1;91m!\x1b[0m] Modul requests belum terinstall!...\n')
+    os.system('pip install requests')
 
 try:
-    xyaa_reg = requests.get("http://ip-api.com/json/").json()
-    xyaa_xcc = xyaa_reg["country"]
+    import bs4
+except ImportError:
+    print('\n [\x1b[1;91m!\x1b[0m] Modul Bs4 belum terinstall!...\n')
+    os.system('pip install bs4')
+
+try:
+    import rich
+except ImportError:
+    print('\n [\x1b[1;91m!\x1b[0m] Modul Rich belum terinstall!...\n')
+    os.system('pip install rich')
+
+if __name__ == '__main__':
+    try:
+        os.system("git pull")
+        __import__("run").makedirectory()
+    except Exception as e:
+        exit(str(e)) 
     
-except:
-        xyaa_xcc = "Indonesia"
-        
-if __name__ == "__main__":
-	if "Indonesia" == xyaa_xcc:
-		os.system('git pull')
-		__import__("run").makedirectory()
-	else:
-	     os.system("clear")
-	     print(f"{P}[{M}!{P}] sorry, this script can only be used in Indonesia")
