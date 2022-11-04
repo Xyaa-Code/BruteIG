@@ -28,8 +28,4 @@ untuk versi sekarang hanya support di perangkat yang ```aarch64``` untuk mengece
 
 gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
 
-<h5 align="left">Thanks for <a href="https://f-droid.org/en/packages/com.termux/">xyaa code</a> and <a href="https://f-droid.org/en/packages/com.termux/">aditya xc</a></h5>
-
-[![forthebadge cc-nc](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+16143244921)
-[![forthebadge cc-nc](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Aditya.putraXD991)
-[![forthebadge cc-nc](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/Xyaa_Codename)
+<h5 align="left">Thanks for <a href="https://github.com/Xyaa-Code">xyaa code</a> and <a href="https://f-droid.org/en/packages/com.termux/">aditya xc</a></h5>
