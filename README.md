@@ -3,11 +3,12 @@
 
 download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packages/com.termux/">klik disini</a> lalu buka aplikasinya ketikan perintah dibawah ini.
 
-
-    $ pkg update && pkg upgrade
-    $ pkg install python git
-    $ rm -rf InstaAdtya
-    $ git clone https://github.com/Xyaa-Code/InstaAdtya
+```
+$ pkg update && pkg upgrade
+$ pkg install python git
+$ rm -rf InstaAdtya
+$ git clone https://github.com/Xyaa-Code/InstaAdtya
+```
 
 - Oke sekarang script sudah berhasil di ```install```
 
@@ -16,9 +17,12 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packa
 sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan perintah dibawah ini
 
 
-    $ cd $HOME/InstaAdtya
-    $ git pull
-    $ python run.py
+```
+$ cd $HOME/InstaAdtya
+$ python -m pip install -r requirements.txt
+$ git pull
+$ python run.py
+```
 
 
 <h5 align="left">TAMPILAN AWAL:</h5>
