@@ -31,9 +31,9 @@ $ python run.py
 
 - Notice me: ```Anda bisa membeli lisensi tools``` <a href="https://wa.me/+16143244921">Klik disini</a>
 
-<h5 align="left">LOGIN COOKIE DAN USERNAME:</h5>
+<h5 align="left">LOGIN COOKIE:</h5>
 
-![IMG_20221104_175638](https://user-images.githubusercontent.com/109187416/199957086-a4d401ca-9541-4ce5-a348-6f588d9c40f4.jpg)
+[![IMG-20221204-231613.jpg](https://i.postimg.cc/jSrYRs2j/IMG-20221204-231613.jpg)](https://postimg.cc/Vd4VRPjy)
 
 - Notice me: ```Jika belum tau cara mendapatkan cookie Instagram``` <a href="https://youtu.be/VrGZdY5L19k">klik disini</a>
 
