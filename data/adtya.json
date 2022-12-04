@@ -1,9 +1,0 @@
-{
-    "settings": [
-        {
-            "max_dump_id": 200000,
-            "max_work": 40,
-            "default_crack_speed": "fast"
-        }
-    ]
-}
