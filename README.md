@@ -27,7 +27,7 @@ $ python run.py
 
 <h5 align="left">TAMPILAN AWAL:</h5>
 
-![IMG_20221104_175651](https://user-images.githubusercontent.com/109187416/199957026-51642f79-3e9a-4941-8b00-c0350fc6c26e.jpg)
+[![IMG-20221204-231600.jpg](https://i.postimg.cc/J0ZmQt09/IMG-20221204-231600.jpg)](https://postimg.cc/q6J9JJ8L)
 
 - Notice me: ```Anda bisa membeli lisensi tools``` <a href="https://wa.me/+16143244921">Klik disini</a>
 
