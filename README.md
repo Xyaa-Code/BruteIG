@@ -39,7 +39,7 @@ $ python run.py
 
 <h5 align="left">RESULT CRACK:</h5>
 
-![IMG_20221104_175714](https://user-images.githubusercontent.com/109187416/199957122-98d00ba6-54a8-49be-b322-cc080928264f.jpg)
+[![IMG-20221204-232132.jpg](https://i.postimg.cc/jdSZNm1h/IMG-20221204-232132.jpg)](https://postimg.cc/QVvQZ4hB)
 
 - Notice me: ```Hasil crack followers banyak atau sedikit nya tergantung target yang di dapatkan.```
 
