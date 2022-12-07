@@ -1,6 +1,0 @@
-requests
-bs4
-futures
-rich
-stdiomask
-colorama
