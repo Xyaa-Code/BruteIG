@@ -1,54 +1,39 @@
 
-<h5 align="left">CARA INSTALL SCRIPT:</h5>
-
-download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packages/com.termux/">klik disini</a> lalu buka aplikasinya ketikan perintah dibawah ini.
-
-```
-$ pkg update && pkg upgrade
-$ pkg install python git
-$ rm -rf InstaAdtya
-$ git clone https://github.com/Xyaa-Code/InstaAdtya
-```
-
-- Oke sekarang script sudah berhasil di ```install```
-
-<h5 align="left">CARA MENJALANKAN SCRIPT:</h5>
-
-sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan perintah dibawah ini
-
-
-```
-$ cd $HOME/InstaAdtya
-$ python -m pip install -r requirements.txt
-$ git pull
-$ python run.py
-```
-
-
-<h5 align="left">TAMPILAN AWAL:</h5>
-
+#### CARA INSTALL SCRIPT:
+ download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_117.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
+ ```
+ $ pkg update && pkg upgrade
+ $ pkg install python git
+ $ pip install requests bs4 futures
+ $ rm -rf InstaAdtya
+ $ git clone https://github.com/Xyaa-Code/InstaAdtya
+ ```
+ oke sekarang script sudah terinstall
+#### CARA MENJALANKAN SCRIPT:
+ sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
+ ```
+  $ cd InstaAdtya
+  $ git pull
+  $ python run.py
+ ```
+### TAMPILAN AWAL:
 [![IMG-20221204-231600.jpg](https://i.postimg.cc/J0ZmQt09/IMG-20221204-231600.jpg)](https://postimg.cc/q6J9JJ8L)
 
-- Notice me: ```Anda bisa membeli lisensi tools``` <a href="https://wa.me/+16143244921">Klik disini</a>
-
-<h5 align="left">LOGIN COOKIE:</h5>
+### LOGIN COOKIE:
 
 [![IMG-20221204-231613.jpg](https://i.postimg.cc/jSrYRs2j/IMG-20221204-231613.jpg)](https://postimg.cc/Vd4VRPjy)
-
-- Notice me: ```Jika belum tau cara mendapatkan cookie Instagram``` <a href="https://youtu.be/VrGZdY5L19k">klik disini</a>
-
-<h5 align="left">RESULT CRACK:</h5>
-
+ Jika belum tau cara mendapatkan cookie Instagram anda bisa melihat tutorial [disini](https://youtu.be/VrGZdY5L19k).
+#### RESULTS:
 [![IMG-20221204-232132.jpg](https://i.postimg.cc/jdSZNm1h/IMG-20221204-232132.jpg)](https://postimg.cc/QVvQZ4hB)
+* Notice me: Hasil crack followers banyak atau sedikit nya tergantung target yang di dapatkan.
 
-- Notice me: ```Hasil crack followers banyak atau sedikit nya tergantung target yang di dapatkan.```
+##### info:
+ untuk versi sekarang hanya support di perangkat yang *aarch64* untuk mengecek
+ ketik perintah ini : ```uname -m``` jika muncul *aarch64* selamat anda bisa menggunakan script ini,
+ oh iya script ini juga cuma bisa dijalanin dipython versi 3.11 untuk mengecek versi python
+ ketik perintah ini : ```python --version```
 
-<h5 align="left">informasi:</h5>
+##### catatan:
+ gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
 
-untuk versi sekarang hanya support di perangkat yang ```aarch64``` untuk mengecek ketik perintah ini : ```uname -m``` jika muncul ```aarch64``` selamat anda bisa menggunakan script ini, oh iya script ini juga cuma bisa dijalanin dipython versi ```3.11``` untuk mengecek versi python ketik perintah ini : ```python --version```
-
-<h5 align="left">catatan:</h5>
-
-gunakanlah dengan ```bijak,``` atas apapun yang terjadi admin tidak ```bertanggung jawab.```
-
-<h5 align="left">Thanks for <a href="https://github.com/Xyaa-Code">Xyaa-Code</a> and <a href="https://github.com/AdtyaXC">Aditya XC</a></h5>
+###### Thanks for [Xyaa-Code](https://github.com/Xyaa-Code) and [AdtyaXC](https://github.com/AdtyaXC)
