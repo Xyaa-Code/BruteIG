@@ -1,4 +1,4 @@
 {
-"https://",
+"https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks4&timeout=10000&country=all",
 "http://"
 }
