@@ -17,15 +17,12 @@
   $ git pull
   $ python run.py
  ```
-### TAMPILAN AWAL:
-[![IMG-20221204-231600.jpg](https://i.postimg.cc/J0ZmQt09/IMG-20221204-231600.jpg)](https://postimg.cc/q6J9JJ8L)
+### TAMPILAN MENU:
+![template_s](https://github.com/Xyaa-Code/BACEM/blob/main/data/img/Screenshot_2023-01-25-16-59-05-06_84d3000e3f4017145260f7618db1d683.jpg)
 
-### LOGIN COOKIE:
-
-[![IMG-20221204-231613.jpg](https://i.postimg.cc/jSrYRs2j/IMG-20221204-231613.jpg)](https://postimg.cc/Vd4VRPjy)
- Jika belum tau cara mendapatkan cookie Instagram anda bisa melihat tutorial [disini](https://youtu.be/VrGZdY5L19k).
 #### RESULTS:
-[![IMG-20221204-232132.jpg](https://i.postimg.cc/jdSZNm1h/IMG-20221204-232132.jpg)](https://postimg.cc/QVvQZ4hB)
+![template_s](https://github.com/Xyaa-Code/BACEM/blob/main/data/img/Screenshot_2023-01-25-16-59-05-06_84d3000e3f4017145260f7618db1d683.jpg)
+
 * Notice me: Hasil crack followers banyak atau sedikit nya tergantung target yang di dapatkan.
 
 ##### info:
