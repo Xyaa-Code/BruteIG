@@ -6,14 +6,14 @@
  $ pkg install python git
  $ pkg install play-audio
  $ pip install requests bs4 futures
- $ rm -rf InstaAdtya
- $ git clone https://github.com/Xyaa-Code/InstaAdtya
+ $ rm -rf BruteIG
+ $ git clone https://github.com/Xyaa-Code/BruteIG
  ```
  oke sekarang script sudah terinstall
 #### CARA MENJALANKAN SCRIPT:
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
  ```
-  $ cd InstaAdtya
+  $ cd BruteIG
   $ git pull
   $ python run.py
  ```
