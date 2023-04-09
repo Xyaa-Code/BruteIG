@@ -17,11 +17,9 @@
   $ git pull
   $ python run.py
  ```
-### TAMPILAN MENU:
-![template_s](https://github.com/Xyaa-Code/BruteIG/blob/main/assets/screenshot/Screenshot_2023-02-01-00-38-12-06_84d3000e3f4017145260f7618db1d683.jpg)
 
 #### RESULTS:
-![template_s](https://github.com/Xyaa-Code/BruteIG/blob/main/assets/screenshot/IMG_20230201_005116.jpg)
+![template_s](https://github.com/Xyaa-Code/BruteIG/blob/main/assets/screenshot/IMG_20230409_194105.jpg)
 
 * Notice me: Hasil crack followers banyak atau sedikit nya tergantung target yang di dapatkan.
 
